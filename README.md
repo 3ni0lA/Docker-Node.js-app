@@ -1,11 +1,11 @@
-# Go-Flags Application Deployment with Docker and MongoDB
+# Node.js Application Deployment with Docker and MongoDB
 This guide provides detailed instructions on Dockerizing your Go-Flags application, integrating it with a MongoDB container using Docker Compose, and connecting the application to a MongoDB Atlas database. Follow the steps below to easily deploy and scale your application.
 
-# Prerequisites 
+### Prerequisites.
 
-Basic understanding of Docker, Docker Compose, and MongoDB
-Docker and Docker Compose installed on your system
-MongoDB Atlas account (optional, but recommended) 
+- Basic understanding of Docker, Docker Compose, and MongoDB.
+- Docker and Docker Compose installed on your system.
+- MongoDB Atlas account.
 
 # ** Dockerfile Creation **
 To begin, create a Dockerfile in the root directory of your Go-Flags application. This file will define the base image, dependencies, and commands needed to build and run the application.
