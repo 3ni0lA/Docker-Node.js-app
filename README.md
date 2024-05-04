@@ -7,7 +7,7 @@ This guide provides detailed instructions on Dockerizing your Go-Flags applicati
 - Docker and Docker Compose installed on your system.
 - MongoDB Atlas account.
 
-# ** Dockerfile Creation **
+### Dockerfile Creation 
 To begin, create a Dockerfile in the root directory of your Go-Flags application. This file will define the base image, dependencies, and commands needed to build and run the application.
 
 ### Steps:
