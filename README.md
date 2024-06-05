@@ -1,5 +1,5 @@
 # Node.js Application Deployment with Docker and MongoDB
-This guide provides detailed instructions on Dockerizing your Go-Flags application, integrating it with a MongoDB container using Docker Compose, and connecting the application to a MongoDB Atlas database. Follow the steps below to easily deploy and scale your application.
+This guide provides detailed instructions on Dockerizing your Node.js application, integrating it with a MongoDB container using Docker Compose, and connecting the application to a MongoDB Atlas database. Follow the steps below to easily deploy and scale your application.
 
 ### Prerequisites.
 
