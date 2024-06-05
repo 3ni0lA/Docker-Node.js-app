@@ -98,7 +98,7 @@ Rebuild the Docker containers to Test the application and ensure it connects to 
 
 ### Conclusion:
 
-By following these detailed steps, you can seamlessly Dockerize your Go-Flags application, integrate it with MongoDB Atlas, and ensure a successful connection between the application and the database. 
+By following these detailed steps, you can seamlessly Dockerize your Node.js application, integrate it with MongoDB Atlas, and ensure a successful connection between the application and the database. 
 
 
 
